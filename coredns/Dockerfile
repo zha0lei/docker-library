@@ -1,3 +1,3 @@
 
-FROM gcr.io/google_containers/coredns:1.15.7
+FROM gcr.io/google_containers/coredns:v011
 MAINTAINER mritd <piml.lui@gmail.com>
